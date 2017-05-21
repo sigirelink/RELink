@@ -1,5 +1,5 @@
-# RELink
-A Research Framework and Test Collection for Entity-Relationship Retrieval.
+# A Research Framework and Test Collection for Entity-Relationship Retrieval
+
 
 
 
