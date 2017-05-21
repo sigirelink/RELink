@@ -19,7 +19,7 @@ The resources here available are described in a resource paper under revision at
 
 
 
-<img src="https://github.com/sigirelink/RELink/blob/master/university-of-porto.png" width="250" height="104" /> <img src="https://github.com/sigirelink/RELink/blob/master/university-of-nottingham.png" width="250" height="104" />
+<img src="https://raw.githubusercontent.com/sigirelink/RELink/master/university-of-porto.png" width="250" height="104" /> <img src="https://raw.githubusercontent.com/sigirelink/RELink/master/university-of-nottingham.png" width="250" height="104" />
 
 
 
