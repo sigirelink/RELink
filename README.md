@@ -21,4 +21,4 @@ The resources here available are described in a resource paper under revision at
 
 
 
-![Thumbnail of porto](university-of-porto.png =313X104)   ![Thumbnail of notttingham](university-of-nottingham.png)
+![Thumbnail of porto](university-of-porto.png=313X104)   ![Thumbnail of notttingham](university-of-nottingham.png)
