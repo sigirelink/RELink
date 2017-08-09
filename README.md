@@ -62,6 +62,26 @@ In the case of relationships, there are 317 unique relationship types (out of 81
 
 
 
+## SIGIR PAPER
+
+We have a resource paper describing RELInk published at SIGIR 2017.
+
+You can find the paper pdf [here](https://arxiv.org/pdf/1706.03960.pdf)
+
+If you use RELink, please use the following citation:
+
+@inproceedings{Saleiro:2017:RRF:3077136.3080756,
+ author = {Saleiro, Pedro and Milic-Frayling, Natasa and Mendes Rodrigues, Eduarda and Soares, Carlos},
+ title = {RELink: A Research Framework and Test Collection for Entity-Relationship Retrieval},
+ booktitle = {Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+ series = {SIGIR '17},
+ year = {2017},
+ location = {Shinjuku, Tokyo, Japan},
+ pages = {1273--1276},
+ doi = {10.1145/3077136.3080756},
+ publisher = {ACM}
+} 
+
 
 
 
