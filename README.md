@@ -1,6 +1,20 @@
 # A Research Framework and Test Collection for Entity-Relationship Retrieval
 
 
+
+**Entity-Relationship (E-R) Retrieval:** given a query containing types of multiple entities and relationships connecting them, search for relevant tuples of related entities.
+
+**Example:** *Silicon Valley companies founded by Harvard graduates* expects a list of tuples *<company, founder>* as results.
+
+**Problem:** lack of test collections for E-R retrieval.
+
+**Contributions:**
+1. A low-effort semi-automatic method for acquiring instances of entities and entity relationships from tabular data.
+1. RELink Query Collection of 600 E-R queries with corresponding relevance judgments.
+1. RELink Framework with resources that enable experimentation with multi-relationship E-R queries.
+
+
+
 We prepared and released the RELink Query Collection comprising 600 Entity-Relationship queries and relevance judgments based on a sample of Wikipedia "List-of-lists-of-lists" tables.
 
 
